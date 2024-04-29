@@ -1,0 +1,6 @@
+@Internal_Development_in_QA__SDET__HostAddress = http://localhost:5081
+
+GET {{Internal_Development_in_QA__SDET__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
